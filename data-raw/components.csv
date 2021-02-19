@@ -1,0 +1,323 @@
+type,component,label,family
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/cube#measureType,Measure type,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,Reference Period,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/count,Count,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure,Unit of Measure,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#age,Age,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#civilStatus,Civil Status,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#currency,Currency,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#educationLev,Education Level,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#freq,Frequency,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#occupation,Occupation,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#refArea,Reference Area,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#sex,Sex,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://purl.org/linked-data/sdmx/2009/dimension#timePeriod,Time Period,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#accessibility,Accessibility,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#accuracy,Accuracy,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#accuracyOverall,Accuracy - overall,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#nonsamplingErr,Accuracy - nonsampling error,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#samplingErr,Accuracy - sampling error,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#adjustment,Adjustment,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#adjustCoded,Adjustment - coded,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#adjustDetail,Adjustment - detail,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#basePer,Base Period,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#clarity,Clarity,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#classSystem,Classification systems,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#coherence,Coherence,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#coherXDom,Coherence - cross domain,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#coherInternal,Coherence - Internal,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#comment,Comment,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#comparability,Comparability,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#comparDomains,Comparability - between domains,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#comparGeo,Comparability - geographical,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#comparTime,Comparability - over time,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#compilingOrg,Compiling agency,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#conf,Confidentiality,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#confDataTr,Confidentiality - data treatment,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#confPolicy,Confidentiality - policy,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#confStatus,Confidentiality - status,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contact,Contact,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactEmail,Contact email address,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactFax,Contact fax number,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactMail,Contact mail address,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactName,Contact name,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactOrganisation,Contact organisation,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#organisationUnit,Contact organization unit,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactFunct,Contact person job title,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#contactPhone,Contact phone number,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#costBurden,Cost and Burden,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#costBurdenEff,Cost and Burden - efficiency management,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#costBurdenRes,Cost and Burden - resources,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#visArea,Counterpart Reference Area,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#coverage,Coverage,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#coverageSector,Coverage - sector,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#coverageTime,Coverage- time,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#currency,Currency,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#collMethod,Data Collection Method,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataComp,Data Compilation,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dissOrg,Data Dissemination Agency,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataEditing,Data Editing,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataPres,Data Presentation,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataDescr,Data Presentation - data description,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dissDet,Data Presentation - disseminated detail,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataProvider,Data Provider,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataRev,Data Revision,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#revPolicy,Data Revision - policy,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#revPractice,Data Revision - practice,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#revStudy,Data Revision - studies,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dsi,Data Set Identifier,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataUpdate,Data Update,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataValidation,Data Validation,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataValInter,Data Validation - intermediate,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataValOutput,Data Validation - output,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dataValSource,Data Validation - source,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#decimals,Decimals,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dissFormat,Dissemination Format,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#microDatAcc,Dissemination Format - mirco-data access,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#newsRel,Dissemination Format - news release,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#onlineDb,Dissemination Format - online database,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#dissOther,Dissemination Format - other,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#publications,Dissemination Format - publications,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#docMethod,Documentation on methodology,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#advNotice,Documentation on methodology - advance notice,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#embargoTime,Embargo Time,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#freqDetail,Frequency Detail,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#freqColl,Frequency of data collection,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#freqDiss,Frequency of dissemination,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#grossNet,Grossing/Netting,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#indType,Index Type,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#instMandate,Institutional Mandate,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#instManShar,Institutional Mandate - data sharing,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#instManLaOa,Institutional Mandate - legal acts and other agreements.,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#iMResRel,Institutional Mandate - respondent relations.,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#mAgency,Maintenance Agency,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#metaUpdate,Metadata Update,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#metaCertified,Metadata Update - last certified,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#metaPosted,Metadata Update - last posted,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#metaLastUpdate,Metadata Update - last update,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#obsPreBreak,Observation Pre-break Value,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#obsStatus,Observation Status,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#origDataId,Original Data Identifier,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#prof,Professionalism,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#profCond,Professionalism - code of conduct,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#profImp,Professionalism - impartiality,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#profMeth,Professionalism - methodology,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#profStatCom,Professionalism - statistical commentary,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#punctuality,Punctuality,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#qualityMgmnt,Quality Management,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#qualityAssmnt,Quality Management - assessment,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#qualityAssure,Quality Management - assurance,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#qualityDoc,Quality Management - documentation,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#recording,Recording Basis,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#refPerWgts,Reference Period - weights,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relPolicy,Release Policy,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relPolLegActs,Release Policy - legal acts and other agreements,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relComment,Release Policy - policy commentary,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relCalPolicy,Release Policy - release calendar,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relCalAccess,Release Policy - release calendar access,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relPolTra,Release Policy - transparency,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relPolUsAc,Release Policy - user access,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#relevance,Relevance,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#completeness,Relevance - Completeness,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#userNeeds,Relevance - user needs,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#userSat,Relevance - user satisifaction,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#repAgency,Reporting Agency,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#sampling,Sampling,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#sourceType,Source Data,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#statConcDef,Statistical Concepts and Definitions,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#statPop,Statistical Population,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#statUnit,Statistical Unit,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#timeFormat,Time Format,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#timePerCollect,Time Period - collection,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#timeliness,Timelinesst,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#timeOutput,Timeliness - output,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#timeSource,Timeliness - source data,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#title,Title,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#unitMult,Unit Multiplier,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#unitMeasDetail,Unit of Measure Detail,NA
+http://purl.org/linked-data/cube#AttributeProperty,http://purl.org/linked-data/sdmx/2009/attribute#valuation,Valuation,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#age,Age,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#civilStatus,Civil Status,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#currency,Currency,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#educationLev,Education Level,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#obsValue,Observation,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#occupation,Occupation,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://purl.org/linked-data/sdmx/2009/measure#sex,Sex,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/cumulative-count,Cumulative Count,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/percent,Percent,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/indicator,Indicator,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/standardised-scale,Standardised Scale,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/percentage,Percentage,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/kilowatt,Kilowatt,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/weight,Weight,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/travel-time,Travel Time,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/ranks,Ranks,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/deprivation,Deprivation,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/indices,Indices,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/mean-consumption,Mean Consumption,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/median-consumption,Median Consumption,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/sales,Sales,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/current-prices,Current Prices,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/denominators,Denominators,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/numerators,Numerators,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/scores,Scores,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/gdp,Gross Domestic Product,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/median-costs,Median Costs,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/median-income,Median Income,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/proportion,Proportion,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/cvm,Chained Volume Measures,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/gva,Gross Value Added,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/cmp,Current Market Prices,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/trade,Trade,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/tariff,Tariff,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/expenditure,Expenditure,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/aggregate-fuel-poverty-gap,Aggregate Fuel Poverty Gap,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/average-fuel-poverty-gap,Average Fuel Poverty Gap,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/median-floor-area,Median Floor Area,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/median-rating,Median Rating,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/bop-services,BOP Services,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/sitc-section,SITC Section,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/seasonal-adjustment,Seasonal Adjustment,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/turnover,Turnover,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/employment,Employment,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/age-of-business,Age of Business,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/country-of-ownership,Country of Ownership,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/product,Product,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/price-classification,Price Classification,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/trade-partner-geography,Trade Partner Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/trade-reporter-geography,Trade Reporter Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/international-trade-basis,International Trade Basis,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/investment-direction,Investment Direction,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/export-and-import-activity,Export and Import Activity,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/sitc-4,SITC 4,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/ons-fdi-area,ONS FDI Area,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/fdi-component,FDI Component,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/fdi-industry,FDI Industry,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/hmrc-industry,HMRC Industry,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/nuts-geography,NUTS Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/ons-functional-category,ONS Functional Category,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/ons-trade-areas-itis,ONS Trade Areas ITIS,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/itis-service,ITIS Service,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/itis-industry,ITIS Industry,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/sic-industry,SIC Industry,trade
+http://purl.org/linked-data/cube#AttributeProperty,http://gss-data.org.uk/def/trade/property/attribute/marker,Marker,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/ons-partner-geography,ONS Partner Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/product-department,Product Department,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/product-category,Product Category,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/trades,Trades,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/account-type,Account Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/income,Income,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/income-description,Income Description,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/earnings,Earnings,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/sector,Sector,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/transaction-type,Transaction Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/inventory,Inventory,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/expenditure-category,Expenditure Category,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/analysis,Analysis,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/income-category,Income Category,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/industrial-sector,Industrial Sector,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/estimate-type,Estimate Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/expenditure,Expenditure,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/trade-type,Trade Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/income-indicator,Income Indicator,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/expenditure-type,Expenditure Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/industry,Industry,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/aggregate,Aggregate,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/household-expenditure,Household Expenditure,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/capital-formation,Capital Formation,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/services,Services,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/country-transaction,Country Transaction,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/members,Members,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/service-origin-geography,Service Origin Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/service-destination-geography,Service Destination Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/trade-area,Trade Area,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/mrets-product,MRETS Product,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/size-of-business-by-no-of-employees,Size of Business by no of Employees,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/hmrc-trade-statistic-type,HMRC Trade Statistic Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/hmrc-reporter-region,HMRC Reporter Region,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/hmrc-partner-geography,HMRC Partner Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/cord-sitc,CORD SITC,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/cord-geography,CORD Geography,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/flow-directions,Flow,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/cpa,Product,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/gdp-estimate-type,GDP Estimate Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/alcohol-duty,Alcohol Duty,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/alcohol-content,Alcohol Content,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/alcohol-category,Alcohol Category,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/gdp-measure,GDP Measure,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/status,Status,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/alcohol-by-volume,Alcohol by Volume,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/alcohol-type,Alcohol Type,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/alcohol-origin,Alcohol Origin,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/production-and-clearance,Production and Clearance,trade
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/growth,Growth,trade
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/gbp-total,GBP Total,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/net-mass,Net Mass,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/count-of-businesses,Count of Businesses,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/count-of-employees,Count of Employees,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/count,Count,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/proportion-of-all-business,Proportion of all Business,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/total-turnover,Total Turnover,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/gbp-million,GBP Million,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/percent,Percent,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/suppressed,Suppressed,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/index-deflator-series,Index deflator series,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/index,Index,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/quarter-on-quarter-a-year-ago,Quarter on quarter a year ago,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/quarter-on-quarter,Quarter on quarter,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/year-on-year,Year on year,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/index-series,Index series,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/implied-deflator,Implied Deflator,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/chained-volume-measure,Chained volume measure,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/current-price,Current Price,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/average-value-per-ton,Average value per ton,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/quantities-released-for-consumption,Quantities Released for Consumption,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/revenue,Revenue,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/net-quantities-of-spirits-charged-with-duty,Net Quantities of Spirits Charged with Duty,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/uk-beer-production,UK Beer Production,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/beer-clearances,Beer Clearances,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/cider-cearances,Cider Clearances,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/rates-of-duty,Rates of Duty,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/alcohol-clearances,Alcohol Clearances,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/production-of-potable-spirits,Production of Potable Spirits,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/released-for-consumption,Released for Consumption,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/clearance,Clearance,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/gbp-per-hectolitre-of-product,GBP per Hectolitre of Product,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/gbp-per-1-percent-abv-per-hectolitre,GBP per 1 percent ABV per hectolitre,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/exposure,Exposure,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/trade-in-goods,Trade in goods,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/trade-in-services,Trade in Services,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/gdp-current-prices,GDP at Current Market Prices,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/births,Births,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/area,Area,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/trade-services,Trade Services,trade
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/value-of-imports,Value of Imports,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/industry-section,Industry Section,trade
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/children,Children,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/families,Families,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/average-value-per-exporter,Average value per Exporter,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/average-value-per-importer,Average value per Importer,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/number-of-exporters,Number of Exporters,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/number-of-importers,Number of Importers,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/value-of-exports,Value of Exports,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/trade/property/dimension/cdid,CDID,trade
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/bop-current-account,Balance of Payments Current Account,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/bop-capital-account,Balance of Payments Capital Account,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/gdp-from-gva,GDP (based on GVA),NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/q-on-q-delta-gdp-from-gva,Quarter on Quarter Change in GDP,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/q-on-last-year-q-delta-gdp-from-gva,Quarter on Last Year’s Quarter Change in GDP,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/y-on-y-delta-gdp-from-gva,Year-on-Year Change in GDP,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/trade-in-goods,Trade in Goods,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/clearances,Clearance,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/duty-receipts,Duty Receipts,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/trade/measure/production,Production,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/clearances,Clearances,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/duty-receipts,Duty Receipts,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/production,Production,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/fuel-used-in-generation,Fuel Used in Generation,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/measure/fuel-used-in-generation-representative,Fuel Used in Generation - Representative,NA
+http://purl.org/linked-data/cube#DimensionProperty,http://gss-data.org.uk/def/edvp/property/dimension/fuel,Fuel,edvp
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/energy/measure/total-devices,Total Devices,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/energy/measure/total-devices-per-100-000-population,"Total Devices per 100,000 Population",NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/energy/measure/rapid-devices,Rapid Devices,NA
+http://purl.org/linked-data/cube#MeasureProperty,http://gss-data.org.uk/def/energy/measure/rapid-devices-per-100-000-population,"Rapid Devices per 100,000 Population",NA
